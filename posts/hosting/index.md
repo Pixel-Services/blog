@@ -1,4 +1,4 @@
-# Hosting by PixelServices
+# Hosting by Pixel Services
 
 Hosting by PixelServices is a carbon-negative hosting platform focused on performance, sustainability, and simplicity. It is designed to meet the needs of developers and game server owners who value both technical reliability and environmental responsibility.
 
